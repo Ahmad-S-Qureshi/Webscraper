@@ -1,0 +1,3 @@
+[console_scripts]
+dictionary = english_dictionary.scripts.read_pickle:get_dict
+
